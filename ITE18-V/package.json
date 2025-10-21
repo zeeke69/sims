@@ -1,0 +1,14 @@
+{
+    "name": "Cantaros SIMS",
+    "version": "1.0.0",
+    "description": "Student Information Management System for Vercel",
+    "main": "api/students.js",
+    "scripts": {
+      "start": "node api/students.js"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "dependencies": {}
+  }
+  

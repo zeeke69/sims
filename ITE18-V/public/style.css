@@ -1,0 +1,26 @@
+body {
+    font-family: 'Segoe UI', sans-serif;
+  }
+  
+  #studentTable tbody tr:hover {
+    background-color: #f1f1f1;
+    transition: 0.2s;
+  }
+  
+  .btn-delete {
+    background-color: #dc3545;
+    border: none;
+    color: white;
+    padding: 4px 10px;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
+  .btn-delete:hover {
+    background-color: #b02a37;
+  }
+  
+  #genderFilter {
+    min-width: 120px;
+  }
+  
